@@ -115,7 +115,7 @@ SEMUA PASSWORD SUDAH SAYA HASH YAITU "12345678"
 Silakan masukkan link video presentasi di bawah ini:
 
 ```
-https://link-video-presentasi-anda
+https://youtu.be/7blS9_QiVPA
 ```
 
 ---
