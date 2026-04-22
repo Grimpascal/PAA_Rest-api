@@ -90,12 +90,7 @@ Base.metadata.create_all(bind=engine)
 
 Kemudian jalankan server untuk membuat tabel otomatis.
 
-Lalu insert ke database:
-
-```sql
-INSERT INTO users (nama, email, password, role)
-VALUES ('admin', 'admin@mail.com', '<hashed_password>', 'admin');
-```
+SEMUA PASSWORD SUDAH SAYA HASH YAITU "12345678"
 
 ---
 
